@@ -2006,6 +2006,14 @@
     "repo": "https://github.com/slamdata/purescript-webdriver.git",
     "version": "v4.0.1"
   },
+  "aff-reattempt": {
+    "dependencies": [
+      "aff",
+      "refs"
+    ],
+    "repo": "https://github.com/slamdata/purescript-aff-reattempt.git",
+    "version": "v3.0.0"
+  },
   "websocket-simple": {
     "dependencies": [
       "dom",
