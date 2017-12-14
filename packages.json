@@ -2061,5 +2061,18 @@
     ],
     "repo": "https://github.com/frasermince/hyper.git",
     "version": "v1.1.1"
+  },
+  "stringutils": {
+    "dependencies": [
+      "strings",
+      "partial",
+      "arrays",
+      "either",
+      "maybe",
+      "prelude",
+      "integers"
+    ],
+    "repo": "https://github.com/menelaos/purescript-stringutils.git",
+    "version": "v0.0.6"
   }
 }
