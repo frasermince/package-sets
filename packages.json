@@ -2035,5 +2035,31 @@
     ],
     "repo": "https://github.com/paf31/purescript-yargs.git",
     "version": "v3.1.0"
+  },
+  "hyper": {
+    "dependencies": [
+      "prelude",
+      "maps",
+      "eff",
+      "generics",
+      "strings",
+      "foldable-traversable",
+      "control",
+      "transformers",
+      "node-http",
+      "media-types",
+      "node-fs_aff",
+      "generics-rep",
+      "proxy",
+      "argonaut",
+      "arrays",
+      "argonaut-codecs",
+      "http-methods",
+      "indexed-monad",
+      "smolder",
+      "aff"
+    ],
+    "repo": "https://github.com/frasermince/hyper.git",
+    "version": "v1.1.1"
   }
 }
