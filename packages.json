@@ -2057,7 +2057,9 @@
       "http-methods",
       "indexed-monad",
       "smolder",
-      "aff"
+      "aff",
+      "random",
+      "refs"
     ],
     "repo": "https://github.com/frasermince/hyper.git",
     "version": "v1.1.2"
