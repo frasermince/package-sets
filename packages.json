@@ -2048,7 +2048,7 @@
       "transformers",
       "node-http",
       "media-types",
-      "node-fs_aff",
+      "node-fs-aff",
       "generics-rep",
       "proxy",
       "argonaut",
