@@ -1997,6 +1997,15 @@
     "repo": "https://github.com/natefaubion/purescript-variant.git",
     "version": "v4.0.0"
   },
+  "webdriver": {
+    "dependencies": [
+      "aff",
+      "aff-reattempt",
+      "dom"
+    ],
+    "repo": "https://github.com/slamdata/purescript-webdriver.git",
+    "version": "v4.0.1"
+  },
   "websocket-simple": {
     "dependencies": [
       "dom",
